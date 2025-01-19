@@ -14,7 +14,7 @@ ha_platforms:
 ha_integration_type: device
 ---
 
-The **igloohome** {% term integration %} grants Home Assistant access to paired [smart access device\(s\)](https://www.igloohome.co/#products) via the [igloodeveloper API](https://igloocompany.stoplight.io/docs/igloohome-api/1w1cuv56ge5xq-overview). The features of this integration includes:
+The **igloohome** {% term integration %} grants Home Assistant access to paired [smart access device\(s\)](https://www.igloohome.co/#products) via the [igloodeveloper API](https://igloocompany.stoplight.io/docs/igloohome-api/1w1cuv56ge5xq-overview). The features of this integration include:
 
 - For [Bridge](https://www.igloohome.co/products/bridge) owners:
   - Lock/Unlock/Open locks that are linked to a bridge.
