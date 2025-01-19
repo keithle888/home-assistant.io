@@ -80,7 +80,7 @@ Some generic troubleshooting steps:
 ### Unable to lock/unlock/open lock
 
 - Verify that the bridge is:
-  - powered on, 
-  - has an active internet connection, 
-  - and is within bluetooth range of the lock.
+  - powered on
+  - has an active internet connection
+  - and is within Bluetooth range of the lock
 - If you've recently changed the link between the bridge and the lock, allow 1 hour for the integration to update itself, or reload the config entry to effect the change immediately.
